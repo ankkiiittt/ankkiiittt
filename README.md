@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **ankittkudas@gmail.com**😊😊
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
-[![Ankit Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/ankkiiittt) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/ankkiiittt)
+[![Ankit Instagram](https://img.shields.io/badge/Instagram-Ankit-pink?logo=instagram&logoColor=white)](https://www.instagram.com/ankkiiittt) [![Ankit Twitter](https://img.shields.io/badge/Twitter-Ankit-lightblue?logo=twitter&logoColor=white)](https://twitter.com/ankkiiittt)
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
